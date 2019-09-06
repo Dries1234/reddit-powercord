@@ -1,0 +1,7 @@
+{
+  "name": "Reddit",
+  "version": "1.0.0",
+  "description": "Request top posts in a subreddit",
+  "author": "Dodo#1797",
+  "license": "MIT"
+}
